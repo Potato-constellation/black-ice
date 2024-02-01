@@ -4,7 +4,7 @@
 }
 .topnav a {
   float: left;
-  color: #09C8FE;
+  color: #d600ff;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -18,29 +18,29 @@ html{background-color:#d600ff;
 font-family:sans-serif;}
 .topnav a.active {
   background-color: #04AA6D;
-  color: #09C8FE;
+  color: #d600ff;
 }
-p{color: #09C8FE}
+p{color: #d600ff}
 a:link {
-  color: #09C8FE; 
+  color: #d600ff; 
   background-color: transparent; 
   text-decoration: none;
 }
 
 a:visited {
-  color: #09C8FE;
+  color: #d600ff;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: #09C8FE;
+  color: #d600ff;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
-  color: #09C8FE;
+  color: #d600ff;
   background-color: transparent;
   text-decoration: underline;
 }
@@ -73,10 +73,10 @@ a:active {
 }
 
 /* On mouse-over */
-.btn:hover {background: #09C8FE;}
+.btn:hover {background: #d600ff;}
 
 body{
-color: #09C8FE
+color: #d600ff
 }
 .search-form {
   display: flex;
